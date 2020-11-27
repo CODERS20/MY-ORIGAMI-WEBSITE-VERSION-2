@@ -1,0 +1,52 @@
+h1 {
+
+    color: pink ;
+    text-align: center;
+    border: dashed;
+    border-color: rgb(236, 60, 192);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 100px;
+    border-width: 0.4ch;
+    flex-wrap: wrap
+
+}
+
+.ONE {
+
+    display:flex;
+    color:rgb(188, 121, 233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: solid;
+    border-radius: 15px;
+    border-color: rgb(134, 13, 158);
+
+}
+ 
+h2 {
+
+    color: rgb(9, 8, 83);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: solid;
+    border-width: 7px;
+    border-radius: 15px;
+    border-color: rgb(50, 18, 100);
+    padding-left: 600px;
+
+}
+
+.TWO {
+
+    display: flex;
+    flex-direction: column;
+    color:rgb(240, 182, 196);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(223, 11, 177);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+
+}
